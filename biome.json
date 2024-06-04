@@ -20,11 +20,6 @@
     }
   },
   "files": {
-    "ignore": [
-      "dist",
-      "pnpm-lock.yaml",
-      "infra/logs-migrations/**/*",
-      "infra/migrations/**/*"
-    ]
+    "ignore": ["dist", "yarn.lock"]
   }
 }
